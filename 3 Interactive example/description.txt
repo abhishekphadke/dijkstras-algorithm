@@ -1,0 +1,6 @@
+An interactive example to explain Dijkstra's
+Run the code.
+Select first node
+Select second node
+
+Shortest distance between the two nodes will be shown in green
