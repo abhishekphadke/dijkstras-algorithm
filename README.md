@@ -1,8 +1,5 @@
 # dijkstras-algorithm
-Code repo for python implementation 
-Modify the code given in an IDE and change the static example to accomodate the nodes and edges in Graph 2
-Find shortest path between A and H using the modified code. 
-Complete Interactive Challenge
-Upload all screenshots to Blackboard
-More instructions to do the complete assignment are on on Scholar or in folder number 5
+Code repository for python implementation of Dijkstra's
+More instructions to complete the assignment are on scholar and in the github repository.
+
 
